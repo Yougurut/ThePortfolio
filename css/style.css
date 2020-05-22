@@ -138,7 +138,7 @@ ul {
     font-weight    : 500;
     border-radius  : 0;
     border         : 0;
-    text-transform : uppercase;
+    /*text-transform : uppercase;*/
     transition     : all .3s;
     }
 
@@ -217,8 +217,8 @@ button:focus,
 .section-title h2 {
     font-size      : 14px;
     margin-bottom  : 5px;
-    color          : #bbbbbb;
-    text-transform : uppercase;
+    color          : #555555;
+    /*text-transform : uppercase;*/
     }
 
 @media (max-width: 768px) {
@@ -251,7 +251,7 @@ button:focus,
     }
 
 .header .name-wrapper h1 {
-    text-transform : uppercase;
+    /*text-transform : uppercase;*/
     line-height    : 1;
     margin         : 0 0 5px;
     }
@@ -340,7 +340,7 @@ button:focus,
 
 .item-stats .item-stats-name{
     font-size: 12px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     line-height: 1;
     }
 
@@ -359,7 +359,7 @@ button:focus,
     }
 
 .expertise-item h3 {
-    text-transform : uppercase;
+    /*text-transform : uppercase;*/
     margin-bottom  : 5px;
     }
 
@@ -472,7 +472,7 @@ button:focus,
     line-height    : 1;
     color          : #ffffff;
     font-weight    : 500;
-    text-transform : uppercase;
+    /*text-transform : uppercase;*/
     }
 
 .portfolio-item .portfolio-info small {
@@ -656,7 +656,7 @@ button:focus,
     margin         : 0 0 10px;
     line-height    : 1;
     font-weight    : bold;
-    text-transform : uppercase;
+    /*text-transform : uppercase;*/
     }
 
 .content-item h4 {
@@ -674,7 +674,7 @@ button:focus,
 
 .section-contact address strong {
     font-size      : 13px;
-    text-transform : uppercase;
+    /*text-transform : uppercase;*/
     }
 
 .feedback-form {
