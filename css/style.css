@@ -10,7 +10,7 @@ Author: themehippo.com
 
 # Body  (text): #3a4750
 # Heading Color #444444
-# Theme Color (link color) #ff5722
+# Theme Color (link color) #0395DE
 # Mid grey (sub header) #f4f4f4
 # -------------------------------------------------------------------*/
 
@@ -41,7 +41,7 @@ body {
     line-height : 1.8em;
     color       : #989898;
     font-weight : 300;
-    background  : #f8f8f8;
+    background  : #ffffff;
     }
 
 /* --------------------------------------
@@ -66,7 +66,7 @@ h2 {
     }
 
 h3 {
-    font-size   : 13px;
+    font-size   : 16px;
     line-height : 1.8em;
     font-weight : 700;
     }
@@ -92,7 +92,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #ff5722;
+    color              : #0395DE;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -111,7 +111,7 @@ a:active {
 a:hover,
 a:focus {
     text-decoration : none;
-    color           : #ff5722;
+    color           : #0395DE;
     }
 
 p {
@@ -150,7 +150,7 @@ ul {
 
 /*btn-primary*/
 .btn-primary {
-    background-color : #ff5722;
+    background-color : #0395DE;
     }
 
 .btn-primary:hover,
@@ -239,7 +239,7 @@ button:focus,
     padding    : 50px 0;
     margin     : 0;
     position   : relative;
-    border-top : 5px solid #ff5722;
+    border-top : 5px solid #0395DE;
     }
 
 .header .profile-img {
@@ -258,7 +258,7 @@ button:focus,
 
 .header .name-wrapper span {
     font-size : 24px;
-    color     : #ff5722;
+    color     : #0395DE;
     }
 
 .header .personal-details {
@@ -386,7 +386,7 @@ button:focus,
     }
 
 .progress-item .progress-bar {
-    background-color : #ff5722;
+    background-color : #0395DE;
     box-shadow       : none;
     text-align       : right;
     }
@@ -641,7 +641,7 @@ button:focus,
     }
 
 .profile-item  a:hover{
-    color: #ff5722;
+    color: #0395DE;
     }
 
 /*-------------------
