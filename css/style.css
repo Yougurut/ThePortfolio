@@ -131,6 +131,14 @@ ul {
 /*------------------
  * Button Style
  *------------------*/
+.fa-kaggle:before {
+    font-family: roboto;
+    /*color: #429bf4;*/
+    font-size: 1.2em;
+    content: "k";
+}
+
+
 .btn {
     padding        : 14px 30px 11px;
     margin-bottom  : 0;
