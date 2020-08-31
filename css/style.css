@@ -138,6 +138,13 @@ ul {
     content: "k";
 }
 
+.fa-blog:before {
+    font-family: roboto;
+    /*color: #429bf4;*/
+    font-size: 1.2em;
+    content: "B";
+}
+
 
 .btn {
     padding        : 14px 30px 11px;
