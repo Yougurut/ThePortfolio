@@ -131,6 +131,20 @@ ul {
 /*------------------
  * Button Style
  *------------------*/
+ .fa-en:before {
+    font-family: roboto;
+    /*color: #429bf4;*/
+    font-size: 1.2em;
+    content: "En";
+}
+
+ .fa-ja:before {
+    font-family: roboto;
+    /*color: #429bf4;*/
+    font-size: 1.2em;
+    content: "Ja";
+}
+
 .fa-kaggle:before {
     font-family: roboto;
     /*color: #429bf4;*/
